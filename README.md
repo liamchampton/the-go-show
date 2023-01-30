@@ -2,21 +2,13 @@
 ***This repository is the home of all things Go! All code, any discussions and updates from the live streams will be compiled into this single place.***
 
 ---
-## Where?
-[Microsoft Reactor Youtube channel](https://www.youtube.com/@MicrosoftReactor)
 
-## When?
-30-45minutes every other Wednesday (bi-weekly) @ 1pm
+Join [Liam Hampton](https://www.linkedin.com/in/liam-conroy-hampton/) every other Wednesday for The Go Show, a bi-weekly webinar on the [Microsoft Reactor YouTube channel](https://www.youtube.com/@MicrosoftReactor). Get your dose of all things Go in just 30-45 minutes, starting at 1pm GMT/BST.
 
-## What is it?
-This is byte-sized one-stop-shop for all things [Go](https://go.dev/)!
+Explore new releases, features, and coding techniques with your host, Liam Hampton, a Microsoft UK Regional Cloud Advocate, Software Engineer, International conference speaker, and [Auth0](https://auth0.com/) Ambassador.
 
-Registrations for each event will take place on the [Microsoft Reactor website](https://developer.microsoft.com/reactor/).
+But that's not all! Liam will also be joined by guests from the community, making this an indefinite series of events that will cover a wide range of topics.
 
-This is an indefinite series of events that will cover a whole range of topics. Liam will go through new releases, new features and how to use them. He will also complete coding problems to share them with you and regularly host guests from the community.
+Ready to join the fun? Register for each event on the [Microsoft Reactor website](https://developer.microsoft.com/reactor/) and if you want to be a part of the show, just send Liam a DM via [LinkedIn](https://www.linkedin.com/in/liam-conroy-hampton/) or [Twitter](https://twitter.com/liamchampton).
 
-## Your host
-[Liam Hampton](https://www.linkedin.com/in/liam-conroy-hampton/) - Microsoft UK Regional Cloud Advocate, Software engineer, International conference speaker and [Auth0](https://auth0.com/) ambassador!
-
-## Want to be a part of the show?
-If you want to be a part of the show get in contact with Liam by sending him a DM via [LinkedIn](https://www.linkedin.com/in/liam-conroy-hampton/) or [Twitter](https://twitter.com/liamchampton).
+Don't miss out on your chance to hear from and give back to the Go community!
