@@ -1,4 +1,5 @@
 # The Go Show
+This repository is the home of all things Go! All code, any discussions and updates from the live streams will be compiled into this single place.
 
 ## What is it?
 This is bi-weekly one-stop-shop for all things [Go!](https://go.dev/). The show will be live streamed via the [Microsoft Reactor Youtube channel](https://www.youtube.com/@MicrosoftReactor).
