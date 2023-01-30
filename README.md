@@ -9,11 +9,11 @@
 30-45minutes every other Wednesday (bi-weekly) @ 1pm
 
 ## What is it?
-This is byte-sized one-stop-shop for all things [Go!](https://go.dev/).
+This is byte-sized one-stop-shop for all things [Go](https://go.dev/)!
 
 Registrations for each event will take place on the [Microsoft Reactor website](https://developer.microsoft.com/reactor/).
 
-This is an indefinite series of events that will cover a whole range of topics. Liam will go through new releases, their features and how to use them. He will also complete coding problems and share them with you.
+This is an indefinite series of events that will cover a whole range of topics. Liam will go through new releases, new features and how to use them. He will also complete coding problems to share them with you and regularly host guests from the community.
 
 ## Your host
 [Liam Hampton](https://www.linkedin.com/in/liam-conroy-hampton/) - Microsoft UK Regional Cloud Advocate, Software engineer, International conference speaker and [Auth0](https://auth0.com/) ambassador!
