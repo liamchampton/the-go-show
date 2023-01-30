@@ -1,2 +1,7 @@
-# the-go-show
-A bi-weekly Go show where we talk about all things GO!
+# The Go Show
+
+## What is it?
+
+## What are we doing?
+
+## Want to be a part of the show?
