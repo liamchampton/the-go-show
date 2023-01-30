@@ -1,5 +1,5 @@
 # The Go Show
-==This repository is the home of all things Go! All code, any discussions and updates from the live streams will be compiled into this single place.==
+`This repository is the home of all things Go! All code, any discussions and updates from the live streams will be compiled into this single place.`
 
 ---
 
