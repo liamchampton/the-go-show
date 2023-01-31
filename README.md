@@ -3,7 +3,7 @@
 
 ---
 
-Join [Liam Hampton](https://www.linkedin.com/in/liam-conroy-hampton/) every other Wednesday for The Go Show, a bi-weekly webinar on the [Microsoft Reactor YouTube channel](https://www.youtube.com/@MicrosoftReactor). Get your dose of all things Go in just 30-45 minutes, starting at 1pm GMT/BST.
+Join [Liam Hampton](https://www.linkedin.com/in/liam-conroy-hampton/) every other Wednesday for The Go Show, a bi-weekly webinar on the [Microsoft Reactor YouTube channel](https://www.youtube.com/@MicrosoftReactor). Get your dose of all things Go in just 30-45 minutes, starting at 12pm GMT/BST.
 
 Explore new releases, features, and coding techniques with your host, Liam Hampton, a Microsoft UK Regional Cloud Advocate, Software Engineer, International conference speaker, and [Auth0](https://auth0.com/) Ambassador.
 
