@@ -2,6 +2,8 @@
 ***This repository is the home of all things Go! All code, any discussions and updates from the live streams will be compiled into this single place.***
 
 ---
+![heading picture](./assets/title-heading.png)
+---
 
 Join [Liam Hampton](https://www.linkedin.com/in/liam-conroy-hampton/) every other Wednesday for The Go Show, a bi-weekly webinar on the [Microsoft Reactor YouTube channel](https://www.youtube.com/@MicrosoftReactor). Get your dose of all things Go in just 30-45 minutes, starting at 12pm GMT/BST.
 
