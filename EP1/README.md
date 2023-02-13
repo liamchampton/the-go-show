@@ -1,6 +1,6 @@
 # The Go Show EP1
 
-## Handling JSON in Golang
+## Handling JSON in Go
 
 Hello everyone and welcome to today's episode where we'll be discussing JSON and how it's handled in Golang. Now, for those of you who may not be familiar, JSON, or JavaScript Object Notation, is a lightweight data interchange format that is commonly used for exchanging data between servers and web applications.
 
