@@ -8,4 +8,4 @@ So, let's dive right in! We'll start by taking a look at the basics of JSON and 
 
 By the end of this session, you'll have a solid understanding of how to work with JSON in Golang.
 
-Recording link: <xyz>
+Recording link: https://www.youtube.com/live/E2fNCyFA9vA?feature=share
