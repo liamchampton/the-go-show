@@ -8,4 +8,17 @@ In this session, we'll be utilizing the standard library in Go and showcasing th
 
 By the end of this session, you'll have a solid understanding of how to build a basic web server in Go and be equipped with the tools to continue exploring this exciting language. So, grab your coffee and join us for a fun and informative session!
 
-Recording link: xyz
+Recording link: https://www.youtube.com/live/uhhxPZNKRWM?feature=share
+
+## To run this in Docker or Podman locally
+    
+```bash
+// navigate to the root of the project file
+cd web-server
+
+// build the image
+docker build --tag docker.io/goshow:v1 .   
+
+// run the image
+docker run -dt -p 8080:8080/tcp docker.io/library/goshow:v1
+```
