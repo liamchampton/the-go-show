@@ -1,6 +1,6 @@
 # The Go Show EP3
 
-## Practising Test Driven Development (TDD) in Go
+## Test Driven Development (TDD) in Go
 
 Hello everyone and welcome to this episode where we'll be practising Test Driven Development (TDD) in Go! This session is tailored for new developers in the tech industry and those who want to learn about the language.
 
