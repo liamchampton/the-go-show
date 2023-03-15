@@ -8,4 +8,4 @@ In this session, we'll be utilizing the standard testing library in Go and showc
 
 By the end of this session, you'll have a solid understanding of how to write unit tests in Go and be equipped with the tools to continue exploring this exciting language. So, grab your coffee and join us for a fun and informative session!
 
-Recording link: TBC
+Recording link: https://www.youtube.com/live/yME2peeAxeE?feature=share
