@@ -1,6 +1,6 @@
 # The Go Show EP4
 
-## Connect to Cosmos DB with Go
+## Connect to Azure Cosmos DB with Go
 
 Hello everyone and welcome to this episode where we'll be connecting to Azure Cosmos DB with Go! This session is tailored for new developers in the tech industry and those who want to learn about the language.
 
