@@ -8,4 +8,4 @@ In this session, we'll be utilising Azure App Service to host our Go RESTful API
 
 By the end of this session, you'll have a solid understanding of how to connect to Azure Cosmos DB with Go and be equipped with the tools to continue exploring this exciting language. So, grab your coffee and join us for a fun and informative session! 
 
-Recording link: TBC
+Recording link: https://www.youtube.com/live/Tbgo_7-K1Yo?feature=share
