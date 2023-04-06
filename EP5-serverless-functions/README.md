@@ -1,6 +1,6 @@
 # The Go Show EP5
 
-## Creating Serverless Functions with Go
+## Creating Azure Serverless Functions with Go
 
 Hello everyone and welcome to this episode where we'll be creating Serverless Azure Functions with Go! This session is tailored for new developers in the tech industry and those who want to learn about the language.
 
